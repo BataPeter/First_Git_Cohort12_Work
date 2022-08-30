@@ -1,0 +1,13 @@
+body {
+    background-color: darkorchid;
+}
+.footer1 li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 20px;
+    list-style: none;
+}
+.Nav1 li{
+list-style: none;
+background-color: antiquewhite;
+padding: 10px 10px;
+}
